@@ -1,0 +1,13 @@
+certifi==2021.10.8
+charset-normalizer==2.0.11
+click==8.0.3
+colorama==0.4.4
+google-trans-new==1.1.9
+gTTS==2.2.3
+idna==3.3
+playsound==1.2.2
+PyAudio @ file:///C:/Users/PraiseGod/Desktop/damilare/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
+requests==2.27.1
+six==1.16.0
+SpeechRecognition==3.8.1
+urllib3==1.26.8
